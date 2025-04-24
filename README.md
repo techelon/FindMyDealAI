@@ -33,5 +33,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/findmydealai.git
+git clone https://github.com/techelon/findmydealai.git
 cd findmydealai
